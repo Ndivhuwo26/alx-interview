@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 The minOperations(n) function calculates the fewest number of operations needed to create exactly n characters in a text file using only two operations
 """
