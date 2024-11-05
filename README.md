@@ -1,3 +1,1 @@
-0x00. Pascal's Triangle
-Algorithm
-Python
+The N-Queens Solver program finds all possible ways to place N queens on an N×N chessboard such that no two queens threaten each other. Using backtracking, it places queens row by row, ensuring they don’t share the same column, row, or diagonal. The program validates user input to ensure N is a number and at least 4, then outputs each solution as a list of [row, col] coordinates.
